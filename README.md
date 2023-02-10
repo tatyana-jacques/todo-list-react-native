@@ -10,8 +10,6 @@
 
 <p> ToDo List Exercise developed during Senai's DEVinHouse course on 2022.</p>
 
-<p> ToDo List Exercise developed during Senai's DEVinHouse course on 2022.</p>
-
 <p>You can add, delete or mark tasks as done.</p>
 
 <p>The exercise uses a date-fns calendar and a fake API.</p>
