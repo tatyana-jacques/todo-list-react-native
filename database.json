@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "description": "clean the house",
+      "category": "casa",
+      "status": true,
+      "date": "2023-02-10",
+      "id": 1
+    },
+    {
+      "description": "Study",
+      "category": "estudos",
+      "status": false,
+      "date": "2023-02-11",
+      "id": 2
+    }
+  ]
+}
